@@ -8,6 +8,8 @@
 喜欢的话点个收藏，谢谢     
 视频连接：【2026刘德华解冻器（过年倒计时）】 https://www.bilibili.com/video/BV19yySBrEu4/?share_source=copy_web&vd_source=de55e31805d3f82d6910b08d84233f1c    
 
+目前已经更新2027年了，可以正常使用。     
+
 # Andy-Lau-Defrost-Countdown
 2026 Andy Lau thaw countdown, when Chinese New Year's Eve 2026 is 0:00 o'clock, Andy Lau will thaw and play Wishing you prosperity;    
 Author: Song Nan, graduated from Liaoning University of Science and Technology, QQ3024206153;    
@@ -18,3 +20,4 @@ I don't know what exactly caused them to separate, it's quite a delay.
 If you like it, click on the collection, thank you   
 video ：【2026刘德华解冻器（过年倒计时）】 https://www.bilibili.com/video/BV19yySBrEu4/?share_source=copy_web&vd_source=de55e31805d3f82d6910b08d84233f1c   
 
+It has been updated to 2027 and is working properly.     

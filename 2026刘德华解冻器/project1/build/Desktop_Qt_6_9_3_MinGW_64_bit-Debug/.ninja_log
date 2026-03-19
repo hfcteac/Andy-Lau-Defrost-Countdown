@@ -1,0 +1,17 @@
+# ninja log v6
+10	73	7833287852907410	CMakeFiles/clean.additional	cee7e56548ea36fa
+73	85	7833287853550803	clean	577b940aee94fbd7
+8	1091	7833287956845344	project1_autogen/timestamp	53011e26d1692bf3
+8	1091	7833287956845344	project1_autogen/mocs_compilation.cpp	53011e26d1692bf3
+8	1091	7833287956845344	C:/Users/hafeizhou/Documents/QTsave/project1/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/project1_autogen/timestamp	53011e26d1692bf3
+8	1091	7833287956845344	C:/Users/hafeizhou/Documents/QTsave/project1/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/project1_autogen/mocs_compilation.cpp	53011e26d1692bf3
+1105	4553	7833287957635417	CMakeFiles/project1.dir/main.cpp.obj	987164d3ca44a783
+1096	4667	7833287957555224	CMakeFiles/project1.dir/project1_autogen/mocs_compilation.cpp.obj	1dd90b4ad8bfbb17
+1114	4827	7833287957735277	CMakeFiles/project1.dir/widget.cpp.obj	3635d977ccb678cf
+4828	5155	7833287994867979	project1.exe	5a13d97d9d4d4679
+73	291	7833288704284233	project1_autogen/timestamp	53011e26d1692bf3
+73	291	7833288704284233	project1_autogen/mocs_compilation.cpp	53011e26d1692bf3
+73	291	7833288704284233	C:/Users/hafeizhou/Documents/QTsave/project1/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/project1_autogen/timestamp	53011e26d1692bf3
+73	291	7833288704284233	C:/Users/hafeizhou/Documents/QTsave/project1/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/project1_autogen/mocs_compilation.cpp	53011e26d1692bf3
+291	2994	7833288706468639	CMakeFiles/project1.dir/widget.cpp.obj	3635d977ccb678cf
+2994	3228	7833288733496173	project1.exe	5a13d97d9d4d4679
